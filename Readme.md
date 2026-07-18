@@ -9,7 +9,7 @@ The application analyzes submitted source code, generates intelligent suggestion
 
 🌐 **Live Demo:** https://devforge-ai-backend-2.onrender.com
 
-📖 **Swagger UI:** https://devforge-ai-backend-2.onrender.com/wagger-ui/index.html
+📖 **Swagger UI:** https://devforge-ai-backend-2.onrender.com/swagger-ui/index.html
 
 
 
